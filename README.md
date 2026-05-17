@@ -95,3 +95,7 @@ Through this project, I improved my understanding of:
 - normalization
 - business-oriented analytics
 - operational system modeling
+
+  ## ER Diagram
+
+![ER Diagram](er_diagram.png)
