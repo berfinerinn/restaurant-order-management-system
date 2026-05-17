@@ -96,6 +96,6 @@ Through this project, I improved my understanding of:
 - business-oriented analytics
 - operational system modeling
 
-  ## ER Diagram
+## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![ER Diagram](er diagram.png)
